@@ -43,3 +43,10 @@ It was specifically created to enhance my portfolio while applying for a **Worki
 │   ├── eda.py                     # Script for Exploratory Data Analysis (EDA) functions
 │   └── main_dashboard.py          # Script containing the main interactive dashboard layouts and logic
 └── reports/                       # Directory for saving generated visualizations and reports.
+```
+## 🚀 Access the Live Web App
+
+🔗 [Click here to launch the Interactive Analytics Dashboard](https://nishantpangare-interactive-analytical-dashboard-sap-app-paztrm.streamlit.app/)
+
+You can use the link given above to browse the webapp and then select from the buttons on the left hand side to navigate through the webapp.
+
